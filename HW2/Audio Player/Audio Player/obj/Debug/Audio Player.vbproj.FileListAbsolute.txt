@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\Audio Player.xml
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.vbproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio_Player.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio_Player.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.xml
+c:\users\user\documents\visual studio 2015\Projects\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
